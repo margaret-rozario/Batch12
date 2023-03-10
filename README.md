@@ -5,7 +5,9 @@ This Selenium WebDriver project is built using Java and designed to automate web
 
 # Key features:
 
-Selenium WebDriver for web automation testing
-Test scripts covering various functionalities and test cases
-Maven-based project structure for efficient dependency management and build automation
+1. Selenium WebDriver for web automation testing
+2. Test scripts covering various functionalities and test cases
+3. Maven-based project structure for efficient dependency management and build automation
+
+
 This project is a great resource for developers looking to learn Selenium WebDriver and build their own automated testing frameworks. Contributions and feedback are always welcome.
